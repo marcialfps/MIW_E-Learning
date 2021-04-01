@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "¿Cuál de estas es \"pato\"?",
+        "options": [
+          { "option": "die Ente" },
+          { "option": "die Katze" },
+          { "option": "das Kino" },
+          { "option": "der Hund" }
+        ],
+        "answer": "die Ente"
+      },
+      {
+        "question": "¿Cuál de estas es \"das Krankenhaus\"?",
+        "options": [
+          { "option": "gallina" },
+          { "option": "hospital" },
+          { "option": "perro" },
+          { "option": "cine" }
+        ],
+        "answer": "hospital"
+      },
+      {
+        "question": "¿Cuál de estas es \"das Huhn\"?",
+        "options": [
+          { "option": "pájaro" },
+          { "option": "gallina" },
+          { "option": "oso" },
+          { "option": "perro" }
+        ],
+        "answer": "gallina"
+      },
+      {
+        "question": "¿Cuál de estas es \"der Saft\"?",
+        "options": [
+          { "option": "libro" },
+          { "option": "zumo" },
+          { "option": "periódico" },
+          { "option": "leche" }
+        ],
+        "answer": "zumo"
+      },
+      {
+        "question": "¿Cuál de estas es \"der Bär\"?",
+        "options": [
+          { "option": "libro" },
+          { "option": "pan" },
+          { "option": "agua" },
+          { "option": "oso" }
+        ],
+        "answer": "oso"
+      },
+      {
+        "question": "¿Cuál de estas es \"agua\"?",
+        "options": [
+          { "option": "der Saft" },
+          { "option": "das Brot" },
+          { "option": "das Wasser" },
+          { "option": "das Buch" }
+        ],
+        "answer": "das Wasser"
+      },
+      {
+        "question": "¿Cuál de estas es \"libro\"?",
+        "options": [
+          { "option": "das Papier" },
+          { "option": "das Buch" },
+          { "option": "die Bibliothek" },
+          { "option": "die Zeitung" }
+        ],
+        "answer": "das Buch"
+      },
+      {
+        "question": "¿Cuál de estas es \"die Zeitung\"?",
+        "options": [
+          { "option": "perro" },
+          { "option": "pájaro" },
+          { "option": "periódico" },
+          { "option": "gallina" }
+        ],
+        "answer": "periódico"
+      },
+      {
+        "question": "¿Cuál de estas es \"pájaro\"?",
+        "options": [
+          { "option": "die Ente" },
+          { "option": "der Bär" },
+          { "option": "der Vogel" },
+          { "option": "das Huhn" }
+        ],
+        "answer": "der Vogel"
+      },
+      {
+        "question": "¿Cuál de estas es \"iglesia\"?",
+        "options": [
+          { "option": "das Kino" },
+          { "option": "die Kirche" },
+          { "option": "das Krankenhaus" },
+          { "option": "die Katze" }
+        ],
+        "answer": "die Kirche"
+      }
+    ]
+  }
+  
